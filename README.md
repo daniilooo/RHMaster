@@ -56,9 +56,9 @@ O **RHMaster** é um sistema modular de Recursos Humanos desenvolvido em **Larav
 - **App Mobile**: A ser decidido (Flutter, React Native)
 
 ## Contato
-Desenvolvido por Danilo Franco.
-Email: engdanilofranco@gmail.com
-Linkedin: [text](https://www.linkedin.com/in/engdanilofranco/)
+- **Desenvolvido por Danilo Franco.**
+- **Email: engdanilofranco@gmail.com**
+- LinkedIn: [text](https://www.linkedin.com/in/engdanilofranco/)
 
 ## Estrutura do Repositório
 
